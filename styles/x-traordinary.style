@@ -1,0 +1,121 @@
+! ---------------------------------------------------
+! x-traordinary by qwilk/@xoblite
+! qwilk_AT_xoblite_DOT_net
+! http://xoblite.net/
+! December 13th, 2020
+! ---------------------------------------------------
+
+style.name:		x-traordinary
+style.author:		qwilk/@xoblite
+style.date:		Sun Dec 13 2020
+style.credits:		default style #1 -> xoblite bb5 RC4
+style.comments:		http://xoblite.net/
+style.wallpaper:	(see credits.txt)
+
+! --------------------------------------------------
+
+rootCommand: bsetroot -solid #202020
+
+! --------------------------------------------------
+
+toolbar.appearance: Flat Solid
+toolbar.color: #323946
+toolbar.font: CozetteVector/6/Normal
+toolbar.alignment: Center
+toolbar.textColor: #ffffff
+toolbar.marginWidth: 1.5
+toolbar.borderWidth: 0
+
+toolbar.label.appearance: ParentRelative
+toolbar.label.font: CozetteVector/6/Normal
+toolbar.label.alignment: Center
+toolbar.label.textColor: #ffffff
+toolbar.label.marginWidth: 0
+ 
+toolbar.windowLabel.appearance: Flat Solid
+toolbar.windowLabel.color: #323946
+toolbar.windowLabel.font: CozetteVector/6/Normal
+toolbar.windowLabel.alignment: Center
+toolbar.windowLabel.textColor: #BE5E46
+toolbar.windowLabel.marginWidth: 0
+toolbar.windowLabel.borderWidth: 0
+
+toolbar.clock.appearance: ParentRelative
+toolbar.clock.font: CozetteVector/6/Normal
+toolbar.clock.alignment: Center
+toolbar.clock.textColor: #323946
+toolbar.clock.marginWidth: 0
+
+toolbar.button.appearance: ParentRelative
+toolbar.button.picColor: #323946
+toolbar.button.marginWidth: 1
+
+toolbar.button.pressed.appearance: Flat Solid
+toolbar.button.pressed.color: #323946
+toolbar.button.pressed.picColor: #323946
+toolbar.button.pressed.marginWidth: 1
+toolbar.button.pressed.borderWidth: 0
+
+! --------------------------------------------------
+
+menu.title.appearance: Flat Solid
+menu.title.color: #323946
+menu.title.font: SF Pro Display/7/Normal
+menu.title.alignment: Center
+menu.title.textColor: #323946
+menu.title.shadowColor: #323946
+menu.title.marginWidth: 0
+menu.title.borderWidth: 0
+
+menu.frame.appearance: Flat Solid
+menu.frame.color: #323946
+menu.frame.font: CozetteVector/6/Normal
+menu.frame.alignment: Left
+menu.frame.textColor: #ffffff
+menu.frame.disabledColor: #c0c0c0
+menu.frame.bulletColor: #c0c0c0
+menu.frame.marginWidth: 0
+menu.frame.borderWidth: 0
+menu.frame.borderColor: #1B1B1B
+
+menu.active.appearance: Flat Solid
+menu.active.color: #323946
+menu.active.textColor: #ffffff
+menu.active.bulletColor: #1B1B1B
+menu.active.marginWidth: 0
+menu.active.borderWidth: 0
+
+menu.grip.appearance: Flat Solid
+menu.grip.color: #323946
+menu.grip.font: SF Pro Display/7/Normal
+menu.grip.alignment: Center
+menu.grip.textColor: #323946
+menu.grip.marginWidth: 0
+menu.grip.borderWidth: 0
+
+menu.indicator.appearance: Flat Solid
+menu.indicator.color: #323946
+menu.indicator.marginWidth: 0
+menu.indicator.borderWidth: 0
+
+menu.separator.appearance: Flat Solid
+menu.separator.color1: #323946
+
+menu.bullet: None
+menu.bullet.position: Right
+
+! --------------------------------------------------
+
+dock.appearance: Flat Solid
+dock.color: #000000
+dock.marginWidth: 2
+dock.borderWidth: 0
+
+! --------------------------------------------------
+
+console.color: #000000
+console.textColor: #ffffff
+console.buttonColor: #ffffff
+console.font: SF Pro Display/8/Normal
+
+! --------------------------------------------------
